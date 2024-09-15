@@ -1,0 +1,15 @@
+ .hover-active 
+ {
+    background-color: lightblue;
+    color: black;
+  }
+
+  .hover-active:hover 
+  {
+    background-color: darkblue;
+    color: white;
+  }
+
+  .hover-active:active {
+    background-color: navy;
+  }
